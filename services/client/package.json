@@ -17,7 +17,7 @@
     "graphqurl": "^1.0.1",
     "i18next": "^15.1.0",
     "jwt-decode": "^2.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "nanoid": "^2.0.1",
     "prismjs": "^1.17.1",
     "prop-types": "^15.7.2",
