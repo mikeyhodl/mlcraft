@@ -14,7 +14,7 @@
     "@cubejs-client/core": "^0.28.25",
     "cabin": "^8.0.7",
     "chrono-node": "^2.3.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-request-id": "^1.4.1",
     "immer": "^9.0.21",
     "ioredis": "^4.19.2",
